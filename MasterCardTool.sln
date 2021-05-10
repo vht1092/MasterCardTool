@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterCardTool", "MasterCardTool\MasterCardTool.csproj", "{73762118-F85F-4F19-9223-80128F6D6EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73762118-F85F-4F19-9223-80128F6D6EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73762118-F85F-4F19-9223-80128F6D6EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73762118-F85F-4F19-9223-80128F6D6EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73762118-F85F-4F19-9223-80128F6D6EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51772E71-34D0-4C36-86D9-3A6FAF9010D7}
+	EndGlobalSection
+EndGlobal
